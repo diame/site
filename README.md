@@ -1,4 +1,4 @@
-deam.github.io
+diame.github.io
 ==============
 
-diam
+diame
